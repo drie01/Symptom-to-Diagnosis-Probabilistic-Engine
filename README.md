@@ -12,3 +12,6 @@ The goal is to demonstrate statistical thinking, probabilistic modeling, and cle
 This project is for educational purposes only.
 It does not provide medical advice, diagnosis, or treatment.
 All results should be interpreted as probabilistic simulations, not clinical decisions.
+
+
+dataset used :- https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset
